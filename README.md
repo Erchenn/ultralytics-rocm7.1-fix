@@ -1,1 +1,1 @@
-Just put this file in extensions/adetailer/adetailer
+Just put ultralytics.py in extensions/adetailer/adetailer
